@@ -16,7 +16,7 @@ Se requiere **controlar** cuáles usuarios pueden ver los tuits de otros, contro
 - Contar tuits : Observados y retuits
 ## Levantamiento de requerimientos NO  Funcionales
 - Visualización Dashboard de frecuencia de tuits
-- Tuits más retuiteados.
+- Visualizacion de Tuits más retuiteados.
 - Visualización de las personas que realizaron el retuit.
 
 
