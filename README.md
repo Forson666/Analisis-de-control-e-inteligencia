@@ -11,9 +11,22 @@ Se requiere **controlar** cuáles usuarios pueden ver los tuits de otros, contro
  
 ## Levantamiento de requerimientos Funcionales
 - Modificar acceso a un Tuit
+  - Descripcion:
+  El administrador de la publicación podrá decidir según un criterio determinado quién puede ver el tuit (Si es seguidor, si es seguido por el usuario, cuentas específicas, etc.)
+  - Actores:
+  Administrador de publicación
+  - Accion del actor:
+  Solicitar al sistema, que cambie la configuracion de los permisos de acceso a un determinado tuit o a los tuits en general que haga en su cuenta
+  - Respuesta del sistema:
+  El sistema solicitara los datos de la configuración deseada, dando opciones como son seguidores o seguidos, las dos opciones anteriores se podrán seleccionar de manera simultánea, así como se dará la opción de permitir acceso a cualquiera o a usuarios específicos; en caso de que se escoja la opción de usuarios específicos se procederá a pedir los identificadores de las cuentas que se desea tengan acceso, una vez se proporcionen los datos requeridos el sistema mostrara un mensaje de éxito y regulara el acceso al tuit según los parámetros indicados.
 - Observar Tuit Ajeno
+  - Descripcion:
+  El usuario que desee observar un tuit debera cumplir con las especificaciones del administrador de la publicacion
 - Retwittear publicación ajena
+  - Descripcion:
+  El usuario que desee retuitear debera cumplir con las especificaciones del administrador de la publicacion
 - Contar tuits : Observados y retuits
+  - Descripcion:
 ## Levantamiento de requerimientos NO  Funcionales
 - Visualización Dashboard de frecuencia de tuits
 - Visualizacion de Tuits más retuiteados.
