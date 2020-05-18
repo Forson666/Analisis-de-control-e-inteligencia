@@ -22,11 +22,29 @@ Se requiere **controlar** cuáles usuarios pueden ver los tuits de otros, contro
 - Observar Tuit Ajeno
   - Descripcion:
   El usuario que desee observar un tuit debera cumplir con las especificaciones del administrador de la publicacion
+  - Actores:
+  Usuario
+  - Accion del actor:
+  Solicitar al sistema acceso a una determinada publicación
+  - Respuesta del sistema:
+  El sistema verificara si el usuario cumple con las caracteristicas requeridas para acceder al tuit y procedera a bloquear o permitir el acceso
 - Retwittear publicación ajena
   - Descripcion:
   El usuario que desee retuitear debera cumplir con las especificaciones del administrador de la publicacion
+  - Actores:
+  Usuario
+  - Accion del actor:
+  Solicitar al sistema permisos para retuitear la publicación
+  - Respuesta del sistema:
+  El sistema verificara si el usuario cumple con las caracteristicas requeridas para acceder al tuit y permitira o no que el usuario realice el retuit
 - Contar tuits : Observados y retuits
   - Descripcion:
+  
+  - Actores:
+  
+  - Accion del actor:
+  
+  - Respuesta del sistema:
 ## Levantamiento de requerimientos NO  Funcionales
 - Visualización Dashboard de frecuencia de tuits
 - Visualizacion de Tuits más retuiteados.
