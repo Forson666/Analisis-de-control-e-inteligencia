@@ -47,6 +47,7 @@ Se requiere **controlar** cuáles usuarios pueden ver los tuits de otros, contro
   - Respuesta del sistema:
 ## Levantamiento de requerimientos NO  Funcionales
 - Visualización Dashboard de frecuencia de tuits
+  - Descripcion: Ventana DashBoard en la que se podrá visualizar tuits más retuiteados, y más vistos del último mes
 - Visualizacion de Tuits más retuiteados.
 - Visualización de las personas que realizaron el retuit.
 
