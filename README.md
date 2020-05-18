@@ -39,7 +39,7 @@ Se requiere **controlar** cuáles usuarios pueden ver los tuits de otros, contro
   El sistema verificara si el usuario cumple con las caracteristicas requeridas para acceder al tuit y permitira o no que el usuario realice el retuit
 - Contar tuits : Observados y retuits
   - Descripcion:
-  
+  Cuando se le conceda acceso al usuario a ver o retuitear un tuit se registran los datos de este y del momento en el que se hizo. 
   - Actores:
   
   - Accion del actor:
