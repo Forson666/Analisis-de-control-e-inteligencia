@@ -6,18 +6,18 @@ Se requiere **controlar** cuáles usuarios pueden ver los tuits de otros, contro
 
 ## Problemática
 
-Control Quién ve mis tuit, quién puede retwittear?
-Dashboard Twitter y quien los abre, quién retwitea? Frecuencia último mes.
+1. Control Quién ve mis tuit, quién puede retwittear?
+2. Dashboard Twitter y quien los abre, quién retwitea? Frecuencia último mes.
  
 ## Levantamiento de requerimientos Funcionales
-Modificar acceso a un Tuit
-Observar Tuit Ajeno
-Retwittear publicación ajena
-Contar tuits : Observados y retuits
+- Modificar acceso a un Tuit
+- Observar Tuit Ajeno
+- Retwittear publicación ajena
+- Contar tuits : Observados y retuits
 ## Levantamiento de requerimientos NO  Funcionales
-Visualización Dashboard de frecuencia de tuits
-Tuits más retuiteados.
-Visualización de las personas que realizaron el retuit.
+- Visualización Dashboard de frecuencia de tuits
+- Tuits más retuiteados.
+- Visualización de las personas que realizaron el retuit.
 
 
 
